@@ -1,9 +1,14 @@
-class Circle
+import java.io.File;
+class ConstructorCircle
 {   
 	double radius;
 	double findArea()
 	{
 		return radius*radius*3.141;
+	}
+	Circle()
+	{
+		radius=6;
 	}
 
 
