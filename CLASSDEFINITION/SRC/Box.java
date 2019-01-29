@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-class box extends Rectangle 
+class box extends Rectangle //this is called subclass.  box is a subclass of class Rectangle
 {
 	private double height;
      
